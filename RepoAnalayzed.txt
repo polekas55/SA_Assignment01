@@ -1,1 +1,7 @@
+# Repos and timeframes analyzed
 
+# Spring 2023
+Example:
+* https://github.com/olekaspt/SoftwareArchitectureCLassApplication Jan 2021 - Dec 2021
+
+Please use a bullet and then repo link, and timeframe
