@@ -2,6 +2,6 @@
 
 # Spring 2023
 Example:
-* https://github.com/olekaspt/SoftwareArchitectureCLassApplication Jan 2021 - Dec 2021
+* https://github.com/olekaspt/SoftwareArchitectureCLassApplication Jan 2021 - Dec 2022 - Group -1
 
 Please use a bullet and then repo link, and timeframe
